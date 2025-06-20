@@ -3,4 +3,4 @@ This set of intermediate tutorials is intended for users with a basic understand
 
 **Google Colab Notebooks**
 
-[Substructure Search](https://colab.research.google.com/github/sofia-sunny/Intermediate_Tutorials/blob/main/01_substructure_search.ipynb)
+
